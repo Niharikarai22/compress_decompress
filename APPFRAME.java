@@ -1,7 +1,7 @@
 package GUI;
 
-import comp_decomp.compressor;
-import comp_decomp.decompressor;
+import compressor;
+import decompressor;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
